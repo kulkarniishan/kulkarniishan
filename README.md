@@ -16,26 +16,26 @@
             <a href="https://linkedin.com/in/anurag-g-a01531198" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn icon" width="30" height="30"/>
             </a>
-            &nbsp;
+<!--             &nbsp;
             <a href="https://twitter.com/AnuragG36973328" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter icon" width="30" height="30"/>
-            </a>
+            </a> -->
             &nbsp;
-            <a href="https://www.instagram.com/just_anurag_995/" target="_blank">
+            <a href="https://www.instagram.com/kulkarniishan/" target="_blank">
                 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
             </a>
             &nbsp;
-            <a href="https://facebook.com/anurag.ghosh.92798" target="_blank">
+<!--             <a href="https://facebook.com/anurag.ghosh.92798" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook icon" width="30" height="30"/>
             </a>
             &nbsp;
-            <a href="https://www.hackerrank.com/anurag_ghosh1" target="_blank">
+          <a href="https://www.hackerrank.com/anurag_ghosh1" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="Hackerrank icon" width="30" height="30"/>
             </a>
             &nbsp;
             <a href="https://codepen.io/anu26092002-the-styleful" target="_blank">
                 <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="CodePen icon" width="30" height="30"/>
-            </a>
+            </a> -->
         </p>
     </details>
 </div>
