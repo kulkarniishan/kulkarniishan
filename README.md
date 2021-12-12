@@ -17,7 +17,7 @@
                 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn icon" width="30" height="30"/>
             </a>
 <!--             &nbsp;
-            <a href="https://twitter.com/AnuragG36973328" target="_blank">
+            <a href="https://twitter.com/kulkarniishan" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter icon" width="30" height="30"/>
             </a> -->
             &nbsp;
