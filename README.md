@@ -13,7 +13,7 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="Github icon" width="30" height="30"/>
             </a>
             &nbsp;
-            <a href="https://linkedin.com/in/anurag-g-a01531198" target="_blank">
+            <a href="https://linkedin.com/in/kulkarniishan" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn icon" width="30" height="30"/>
             </a>
 <!--             &nbsp;
